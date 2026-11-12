@@ -1,0 +1,5 @@
+---------------------------------------------------------------------------------------------------
+Version: 3.0.10
+Date: 2026-11-12
+  Changes:
+    - Makes the original optional storage-tank bundle loadable on Factorio 2.1; individual storage-tank providers remain optional.
