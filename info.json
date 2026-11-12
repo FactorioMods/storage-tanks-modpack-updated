@@ -1,0 +1,32 @@
+{
+  "name": "storage-tanks-modpack",
+  "title": "Storage Tank Modpack",
+  "author": "Kuxynator",
+  "version": "3.0.10",
+  "factorio_version": "2.0",
+  "description": "A collection of storage tanks",
+  "dependencies": [
+	"base",
+	"? StorageTank2_2_0",       "(?) StorageTank2",
+	"? large-storage-tank",
+	"? bigger-storage-tank",
+	"? est-tiny-storage-tank",  "(?) extra-storage-tank-minibuffer",
+	"? est-steel-storage-tank", "(?) extra-storage-tank",
+	"? SuperTanks-1",           "(?) SuperTanks",
+	"? k2-fluid-storage",
+	"? fluid-memory-storage",
+	"? MoreStorageTanksFixed",	"(?) MoreStorageTanks",
+			"(?) steam-storage",
+	"? nco-LongStorageTanks",
+	"? nco-SmallTank",
+	"? underground-storage-tank",
+	"? zithorian-extra-storage-tanks-port",
+			"(?) exotic-industries-tanks",
+			"(?) StorageTank2_Updated",
+			"(?) PipeMeterWLK",
+			"(?) SmallInlineStorageTank",
+			"(?) infinite_buffer_fluid_tank",
+			"(?) BigStorageTank",
+			"(?) ffff"			
+  ]
+}
